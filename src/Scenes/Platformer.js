@@ -8,7 +8,7 @@ class Platformer extends Phaser.Scene {
         this.beeX = 70;
         this.beeY = 350;
 
-        this.timerDuration = 30;
+        this.timerDuration = 10;
         this.timeLeft = this.timerDuration;
     }
 
